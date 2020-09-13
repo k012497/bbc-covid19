@@ -46,6 +46,7 @@ img {
 .scroll-text {
 	/*  static(default)가 아니면 z-index를 가지고 있다? */
 	position: relative;
+	padding-botton: 1px;
 }
 
 .step {
